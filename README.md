@@ -1,7 +1,7 @@
 # pixel-fashion4pixel-nerf
 
 A DTU formatted dataset with clothes from 
-
+```
 @misc{zhu2020deep,
     title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images},
     author={Heming Zhu and Yu Cao and Hang Jin and Weikai Chen and Dong Du and Zhangye Wang and Shuguang Cui and Xiaoguang Han},
@@ -10,7 +10,7 @@ A DTU formatted dataset with clothes from
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
-
+```
 ## Downloading
 ```
 
